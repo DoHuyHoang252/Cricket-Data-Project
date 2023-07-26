@@ -1,9 +1,9 @@
 (Note: The goal of this project is for practice. The implementation method can be applied in practice, but the results I have given are for reference only)
 
-Problem: Let's say we need to build the strongest cricket team of 11 members. As a data analyst, you will collect and analyze related data to find 11 the most suitable people among world cricket players
+# Problem
+Let's say we need to build the strongest cricket team of 11 members. As a data analyst, you will collect and analyze related data to find 11 the most suitable people among world cricket players
 
-Solve:
-
+# Solve
 Data taken from the records at ICC Men's T20 World Cup, 2022/23
 
 Data on match results are taken from https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450
@@ -15,7 +15,7 @@ Player data is obtained after clicking on the player's name
 ![image](https://github.com/DoHuyHoang252/Cricket-Data-Project/assets/97439160/9a72bf77-75e1-47d5-885a-c79ed113cd42)
 
 Once the data is collected, it goes through the steps of Data Preprocessing with Python, Pandas - Data Transformation in Power Query - Data Modeling, and Build Dashboard with Power BI
-
+# Data Insights
 After the analysis, I selected 11 players for the cricket team to make it the strongest based on batting average, strike rate, consistency, and other key factors.
 
 ![image](https://github.com/DoHuyHoang252/Cricket-Data-Project/assets/97439160/9676409a-4798-409f-aee9-93ce4ea85948)
